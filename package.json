@@ -1,0 +1,19 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "Projeto desednvolvido na plataforma da Rocketseat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcieleadivincula/starter.git"
+  },
+  "author": "Marciele Adivincula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcieleadivincula/starter/issues"
+  },
+  "homepage": "https://github.com/marcieleadivincula/starter#readme"
+}
