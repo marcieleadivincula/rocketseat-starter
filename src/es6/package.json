@@ -1,0 +1,16 @@
+{
+  "name": "curso-es6",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido no curso da Rocketseat",
+  "main": "index.js",
+  "author": "Marciele Adivincula",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.12.1",
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1"
+  },
+  "scripts": {
+    "dev": "babel ./js/main.js -o ./bundle.js -w"
+  }
+}
